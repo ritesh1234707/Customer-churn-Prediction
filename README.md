@@ -70,6 +70,10 @@ XGBoost (Scale Pos Weight)      0.891      0.641     0.712     0.675
 [SUCCESS] Optimal Business Threshold Found at: 0.35
 [SUCCESS] Maximum Preventative Net Savings: $18,450.00
 
+[INFO] Default Threshold (0.50) Net Savings: $14,200.00
+[SUCCESS] Optimal Business Threshold Found at: 0.35
+[SUCCESS] Maximum Preventative Net Savings: $18,450.00
+
 Customization
 To swap out the synthetic generator for production enterprise features, adjust the data ingest block within data_loader.py:
 
